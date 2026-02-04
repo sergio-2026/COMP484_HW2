@@ -16,4 +16,3 @@ For this hw you’ll be planning and implementing a semantic structuring strateg
              a.	Applies to: all pages
              b.	As you are structuring pages, add ARIA roles to elements when appropriate. 
 					
-
